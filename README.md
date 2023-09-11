@@ -19,3 +19,6 @@ This will help us understand where the lapses came from and how to resolve them.
 2. line chart to represent the products sold by month
 3. bar chart to represent total profit by segment 
 4. column to represent sum of discount by month
+5. pie chart to represent sales by region
+# Total sales by quarter
+Qtr4 made the highest sales with $ 875,926.09 followed by Qtr3 with $ 606,954.95. Qtr1 made the least amount of sales with $369,668.47 
