@@ -22,3 +22,12 @@ This will help us understand where the lapses came from and how to resolve them.
 5. pie chart to represent sales by region
 # Total sales by quarter
 Qtr4 made the highest sales with $ 875,926.09 followed by Qtr3 with $ 606,954.95. Qtr1 made the least amount of sales with $369,668.47 
+# Sales by region
+# south region 
+made average sale of 241.80 which is the highest.
+# East region
+made the average sale of 238.34 making it the second highest 
+# West region
+made a sum of 226.49 which is the third highest 
+# Central region 
+made the least average sale which is 215.77
