@@ -54,3 +54,4 @@ Here it shows that the month of November has the highest number of sales of prod
 with 1436 while 
 February is the month with the least number of products sold by month
 
+
