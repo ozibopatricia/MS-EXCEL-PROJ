@@ -27,7 +27,7 @@ This will help us understand where the lapses came from and how to resolve them.
 
 # Data visualization
 1. column chart to represent the total sales by quarters 
-2. line chart to represent the products sold by month
+2. line chart to represent the products sold by monthp
 3. bar chart to represent total profit by segment 
 4. column to represent sum of discount by month
 5. pie chart to represent sales by region
@@ -73,5 +73,8 @@ February is the month with the least number of products sold by month
 ![](pivot5.png)
 
 
-
+# Conclusion 
+By leveraging on this information to analyse the following ie how sales vary in different regions,number of products sold in a month,
+discounted prices around different months, sales made in every quarter and profit made in different segments.
+it helps us to identify areas for improvement and make data driven decision in order to increase profitability in the business.
 
