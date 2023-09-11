@@ -15,7 +15,9 @@ This will help us understand where the lapses came from and how to resolve them.
 7. Sum of discount by month
 # Results 
 
-!
+![](pivot2.png)
+
+
 # Data visualization
 1. column chart to represent the total sales by quarters 
 2. line chart to represent the products sold by month
