@@ -35,6 +35,7 @@ This will help us understand where the lapses came from and how to resolve them.
 Qtr4 made the highest sales with $ 875,926.09 
 followed by Qtr3 with $ 606,954.95 and Qtr1 made the least amount of sales with $369,668.47 
 
+![](pivot2.png)
 
 
 # Sales by region
@@ -51,6 +52,8 @@ made the least average sale which is $215.77
  Corporate segment generated $91,979.13 amount of profit making it the second highest  
  Home office segment generated the least amount of profit with $60,298.68
 
+ ![](pivot3.png)
+
  
 # Discount sales by month 
 The month of  November has the highest number of discount with $222.27 while February got the least with $46.52 
@@ -58,9 +61,17 @@ This clearly explains why Qtr 4 made the highest sales because much discount was
 while Qtr1 made the least sales in January because less amount of discount given In that month
 
 
+![](pivot4.png)
+
+
 # number of products sold in a month
 Here it shows that the month of November has the highest number of sales of product
 with 1436 while 
 February is the month with the least number of products sold by month
+
+
+![](pivot5.png)
+
+
 
 
