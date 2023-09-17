@@ -22,9 +22,9 @@ This will help us understand where the lapses came from and how to resolve them.
 6. A bar chart to represent total revenue for the years
 
 ## ANALYSIS
-# CUSTOMER HISTORY
-# 2297200.86 orders were made throughout the years
-# The store has a total number of 4994 customer
+ CUSTOMER HISTORY
+ 2297200.86 orders were made throughout the years
+ The store has a total number of 4994 customer
 
 ## product catalog
 
@@ -36,9 +36,9 @@ They are 3 categories in the store with a value of $229.8580008.
 
 ![](revenuebyyear.PNG)
 
-# The total selling price is $2297,200.86.
-# The highest gross income was generated in DECEMBER
-# There is an intermittent rise and fall in the gross income of the store by every month in the entire year
+ The total selling price is $2297,200.86.
+ The highest gross income was generated in DECEMBER
+ There is an intermittent rise and fall in the gross income of the store by every month in the entire year
 
 ## Discount By Month
 
@@ -51,15 +51,15 @@ This clearly explains why Qtr 4 made the highest sales because much discount was
 
 ![](top3withdiscount.PNG)
 
-# Zuschuss Carrol had the highest discount with 50%.
-# William Brown had 33% discount while
-# Erin Ashbrook had 17% discount.
+ Zuschuss Carrol had the highest discount with 50%.
+ William Brown had 33% discount while
+ Erin Ashbrook had 17% discount.
 
 ## AVERAGE BY QUANTITY
 
 ![](avgbyqua.PNG)
 
-# Total 
+ Total 
 Qtr4 made the highest sales with $ 875,926.09 
 Qtr3 with $ 606,954.95 
 Qtr1 made the least amount of sales with $369,668.47 
@@ -68,34 +68,33 @@ Qtr1 made the least amount of sales with $369,668.47
 
 ![](profitbyseg.PNG) 
 
-# Customers segment generated the highest amount of profit, which resulted to $134,119.21 
-# Corporate segment generated $91,979.13 amount of profit, making it the second highest  
-# Home office segment generated the least amount of profit with $60,298.68
+ Customers segment generated the highest amount of profit, which resulted to $134,119.21 
+ Corporate segment generated $91,979.13 amount of profit, making it the second highest  
+ Home office segment generated the least amount of profit with $60,298.68
 
 ## SALES BY REGION
 
 ![](salesbyregion.PNG)
 
-# The South Region generated the highest sales with $241.80 
-# south region made an average sale of $241.80 which is the highest.
-# East region made an average sale of $238.34 making it the second highest 
-# West region made a sum of $226.49 which is the third highest 
-# Central region made the least average sale which is $215.77
+ The South Region generated the highest sales with $241.80 
+ south region made an average sale of $241.80 which is the highest.
+ East region made an average sale of $238.34 making it the second highest 
+ West region made a sum of $226.49 which is the third highest 
+ Central region made the least average sale which is $215.77
 
 
 
 ## Number of products sold in a month*
-# It shows that the month of November has the highest number of sales of product
-with 1436 while 
-## February is the month with the least number of products sold.
+ It shows that the month of November has the highest number of sales of product
+with 1436 while February is the month with the least number of products sold.
 
 
 
 
 ## Conclusion 
-# By leveraging on this information to analyse the following: how sales vary in different regions,number of products sold in a month,
-# discounted prices in different months, sales made in every quarter, and profit made in different segments.
-# It helps us identify areas for improvement and make data driven decisions in order to increase profitability in the business.
+ By leveraging on this information to analyse the following: how sales vary in different regions,number of products sold in a month,
+ discounted prices in different months, sales made in every quarter, and profit made in different segments.
+ It helps us identify areas for improvement and make data driven decisions in order to increase profitability in the business.
 
 ## RECOMMENDATION 
-# For a deep dive into the analytics, the dataset of the previous year will be required for comparison and data-driven decision-making.
+ For a deep dive into the analytics, the dataset of the previous year will be required for comparison and data-driven decision-making.
