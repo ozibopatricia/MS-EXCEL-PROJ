@@ -5,14 +5,14 @@ I started the analysis by importing the dataset into Excel.  I checked for missi
 The goal of this project is yo keep track of the revenue across different segments, months , quarters, and months.
 This will help us understand where the lapses came from and how to resolve them.
 
-# Key questions 
-1. How do sales vary by month 
-2. How do sales vary by region
-3. Sales by quarters 
+# Problem Statement 
+1. Total revenue for the years 
+2. Average sales by region
+3. Average sales by quarters 
 4. Sales by segment 
 5. How do products sold vary by month
-6. Total revenue for the entire year
-7. Sum of discount by month
+6. Top 3 customers with highest discount
+
 # Results 
 
 ![](pivot2.PNG)
@@ -26,11 +26,14 @@ This will help us understand where the lapses came from and how to resolve them.
 
 
 # Data visualization
-1. column chart to represent the total sales by quarters 
-2. line chart to represent the products sold by monthp
+1. column chart to represent the average sales by quarters 
+2. line chart to represent the products sold by month
 3. bar chart to represent total profit by segment 
-4. column to represent sum of discount by month
+4. column to represent discount by top 3 customers
 5. pie chart to represent sales by region
+6. A bar chart to represent total revenue for the years
+
+
 # Total sales by quarter
 Qtr4 made the highest sales with $ 875,926.09 
 followed by Qtr3 with $ 606,954.95 and Qtr1 made the least amount of sales with $369,668.47 
